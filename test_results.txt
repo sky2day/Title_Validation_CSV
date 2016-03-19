@@ -1,0 +1,144 @@
+
+Test Case ID: 		TC-001.01
+URL: 			http://www.apple.com
+Title Expected: 	Apple
+Title Actual: 		Apple
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.02
+URL: 			http://www.alegro.com
+Title Expected: 	www.alegro.com
+Title Actual: 		www.alegro.com
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.03
+URL: 			http://www.alegro.net
+Title Expected: 	www.alegro.net
+Title Actual: 		alegro.net - This website is for sale! - alegro Resources and Information.
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.04
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.06
+URL: 			http://longreads.com
+Title Expected: 	Longreads: The best longform stories on the web
+Title Actual: 		Longreads: The best longform stories on the web
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.07
+URL: 			http://realclimate.org
+Title Expected: 	RealClimate
+Title Actual: 		RealClimate
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.08
+URL: 			http://mashable.com
+Title Expected: 	Mashable
+Title Actual: 		Mashable
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.09
+URL: 			http://www.onearth.org
+Title Expected: 	onEarth | The magazine of the Natural Resources Defense Council
+Title Actual: 		onEarth | The magazine of the Natural Resources Defense Council
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.10
+URL: 			http://www.scq.ubc.ca
+Title Expected: 	HOME | SCQ
+Title Actual: 		HOME | SCQ
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.11
+URL: 			http://www.regular-expressions.info
+Title Expected: 	"Regular-Expressions.info - Regex Tutorial
+Title Actual: 		Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.12
+URL: 			https://atavist.com
+Title Expected: 	Atavist: Publishing & Storytelling Platform - Make Your Story
+Title Actual: 		Atavist: Publishing & Storytelling Platform - Make Your Story
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.13
+URL: 			https://www.etsy.com
+Title Expected: 	"Etsy - Your place to buy and sell all things handmade
+Title Actual: 		Etsy - Your place to buy and sell all things handmade, vintage, and supplies
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.14
+URL: 			https://www.java.com
+Title Expected: 	java.com: Java + You
+Title Actual: 		java.com: Java + You
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.15
+URL: 			http://www.niemanlab.org
+Title Expected: 	Nieman Journalism Lab » Pushing to the Future of Journalism
+Title Actual: 		Nieman Journalism Lab » Pushing to the Future of Journalism
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.16
+URL: 			https://sfbay.craigslist.org
+Title Expected: 	"craigslist: SF bay area jobs
+Title Actual: 		craigslist: SF bay area jobs, apartments, personals, for sale, services, community, and events
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.17
+URL: 			http://kyky.org
+Title Expected: 	KYKY.ORG
+Title Actual: 		KYKY.ORG
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.18
+URL: 			https://www.google.com
+Title Expected: 	Google
+Title Actual: 		Google
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.19
+URL: 			http://finance.yahoo.com
+Title Expected: 	"Yahoo Finance - Business Finance
+Title Actual: 		Yahoo Finance - Business Finance, Stock Market, Quotes, News
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.20
+URL: 			https://www.flickr.com
+Title Expected: 	"Flickr
+Title Actual: 		Flickr, a Yahoo company | Flickr - Photo Sharing!
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.21
+URL: 			http://www.eurosport.com
+Title Expected: 	Eurosport.com - Sports News | Sports Scores | Sports Results | Sports Videos - Eurosport
+Title Actual: 		Eurosport.com - Sports News | Sports Scores | Sports Results | Sports Videos - Eurosport
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.22
+URL: 			http://www.sfchronicle.com
+Title Expected: 	"San Francisco Chronicle - Bay Area news
+Title Actual: 		San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.23
+URL: 			http://www.coffeebean.com
+Title Expected: 	The Coffee Bean & Tea Leaf Official Store
+Title Actual: 		The Coffee Bean & Tea Leaf Official Store
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.24
+URL: 			https://www.nokiantires.com
+Title Expected: 	Nokian Tires - The best winter tires for northern conditions / Nokian Tires
+Title Actual: 		Nokian Tires - The best winter tires for northern conditions / Nokian Tires
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.25
+URL: 			https://www.teslamotors.com
+Title Expected: 	Tesla Motors | Premium Electric Vehicles
+Title Actual: 		Tesla Motors | Premium Electric Vehicles
+Test Case Result: 	PASSED
